@@ -10,7 +10,7 @@ HOW TO RUN
 1- Download the entire repository and save it nanywhere you like. However remember where you save it!  
 2- Open the "dosbox.conf" file and add your file path to the line that says *ENTER FILE PATH HERE*  
 3- Doublke click on the DOSBOX.exe application to run DOSBOX  
-4- type *run mine* (without the stars) and then hit ENTER
+4- type *run txtpro* (without the stars) and then hit ENTER
 
 Your Done! At this point the game should have opened. 
 
