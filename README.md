@@ -14,6 +14,9 @@ HOW TO RUN
 
 Your Done! At this point the game should have opened. 
 
+NOTE: You do not have to do this everytime you want to play the game only the first time! The compilation process creates a .com file type which can be ran directly once you open DOSBOX.EXE. All you would need to do is type in the name of the game! (in this case txtpro)
+
+
 -------------------------------------------------------------------------------------------------------------------------------------
 MAKING YOUR OWN ASSEMBLY GAME
 
